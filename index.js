@@ -1,6 +1,3 @@
-/**
- * @author rettifan
- */
 module.exports = { ModelicaShapeGeometry: function( THREE ){
   ModelicaShapeGeometry = function ( 
     type,
