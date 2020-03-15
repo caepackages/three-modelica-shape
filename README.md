@@ -31,3 +31,8 @@ var box = new THREE.Mesh( new ModelicaShapeGeometry( shape, length , width , hei
 var scale = getModelicaShapeScale(shape, length , width , height );
 box.scale.set(scale.x, scale.y, scale.z);
 ```
+
+## License
+```
+(c) Copyright 2020 Frank Rettig, all rights reserved.
+```
