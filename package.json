@@ -1,6 +1,6 @@
 {
   "name": "three-modelica-shape",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "modelica shape",
   "main": "index.js",
   "scripts": {
